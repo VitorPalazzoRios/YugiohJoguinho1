@@ -93,7 +93,7 @@ public class JogoBrabo {
                  }
             System.out.println("voce ataca kaiba com a maga nega e em seguida ataca kaiba com mago negro");
             System.out.println("PARABENS VOCE É O REI DOS DUELOS");
-            LifepointBot = LifepointBot - 2500;
+            LifepointBot = LifepointBot - magonegro;
             System.out.println("Life points de kaiba :" + LifepointBot);
        
         
